@@ -10,13 +10,14 @@ body{
         font-size: 14px;
         color: #394150;
     }
-
+background: #F8E8F1;
 }
 .container {
     
     width: 368px;
     margin: 164px auto;
     padding: 16px;
+    background-color: #fff;
 }
 
 .container{
